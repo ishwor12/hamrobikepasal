@@ -1,0 +1,236 @@
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll.config
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\online-purchase-system.pdb
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe.config
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csc.rsp
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe.config
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\csi.rsp
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.AppContext.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Collections.Immutable.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Console.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Globalization.Calendars.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Http.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Sockets.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.ValueTuple.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe.config
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\vbc.rsp
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe.config
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ecommerce\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CoreCompileInputs.cache
+E:\Ecommerce\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CopyComplete
+E:\Ecommerce\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.dll
+E:\Ecommerce\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.pdb
+E:\Ecommerce\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csprojAssemblyReference.cache
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll.config
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.pdb
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe.config
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.rsp
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe.config
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.rsp
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.AppContext.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Collections.Immutable.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Console.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Globalization.Calendars.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Http.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Sockets.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Reflection.Metadata.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.ValueTuple.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe.config
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.rsp
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe.config
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.AssemblyReference.cache
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CoreCompileInputs.cache
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CopyComplete
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.dll
+D:\project uptonow\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.pdb
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll.config
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.pdb
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe.config
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.rsp
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe.config
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.rsp
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.AppContext.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Console.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Http.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe.config
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.rsp
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.AssemblyReference.cache
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CoreCompileInputs.cache
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CopyComplete
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.dll
+C:\Users\Ishwor Khatiwada\Desktop\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.pdb
+F:\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll.config
+F:\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\online-purchase-system.pdb
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.exe.config
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csc.rsp
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.exe.config
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\csi.rsp
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Managed.Core.targets
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.AppContext.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Collections.Immutable.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Console.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Globalization.Calendars.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Http.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Net.Sockets.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Reflection.Metadata.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.ValueTuple.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XmlDocument.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.exe.config
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\vbc.rsp
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe
+F:\online purchase\online-purchase-system\online-purchase-system\bin\roslyn\VBCSCompiler.exe.config
+F:\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\online purchase\online-purchase-system\online-purchase-system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.AssemblyReference.cache
+F:\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CoreCompileInputs.cache
+F:\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.csproj.CopyComplete
+F:\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.dll
+F:\online purchase\online-purchase-system\online-purchase-system\obj\Debug\online-purchase-system.pdb

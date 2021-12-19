@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="online_purchase_system.admin.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+     <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           
+
+                 <div class="container-fluid">
+            <nav class="navbar navbar-expand-md navbar-light" style="background-color: #fbdc25">
+        <div class="auto-style3">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" aria-orientation="vertical">
+            <span class="navbar-toggler-icon" aria-orientation="horizontal"></span>
+          </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <asp:Menu ID="MainMenu" runat="server" Orientation="horizontal" CssClass="navbar-nav mr-auto" StaticMenuStyle-CssClass="nav-item" StaticSelectedStyle-CssClass="nav-item" DynamicMenuStyle-CssClass="nav-item dropdown-menu" RenderingMode="List" role="menu" itemscope="itemscope" Font-Bold="True" Font-Names="Corbel Light" Font-Size="Medium" ForeColor="White" StaticEnableDefaultPopOutImage="false" DynamicHorizontalOffset="-2" >
+
+<DynamicMenuStyle CssClass="nav-item dropdown-menu" BackColor="#930adc" VerticalPadding="5px"></DynamicMenuStyle>
+                <Items>
+                   <asp:MenuItem Text="ADD PRODUCT" Value="ADD" NavigateUrl="~/admin/Addproduct.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="ADMIN" Value="ADMIN " NavigateUrl="~/default.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="REGISTER" Value="REGISTER" NavigateUrl="~/admin/register.aspx"></asp:MenuItem> 
+                    
+                </Items>
+
+                <LevelMenuItemStyles>
+                    <asp:MenuItemStyle CssClass="dropdown-item" HorizontalPadding="15px" Height="55px" VerticalPadding="5px" />
+                </LevelMenuItemStyles>
+                <LevelSelectedStyles>
+                    <asp:MenuItemStyle CssClass="nav-item active" Font-Underline="false" />
+                </LevelSelectedStyles>
+                <StaticHoverStyle  ForeColor="lightgreen" />
+
+<StaticMenuStyle CssClass="nav-item"></StaticMenuStyle>
+
+                <StaticSelectedStyle Font-Bold="true"   />
+            <DynamicHoverStyle BackColor="#0033CC" />
+            <DynamicMenuItemStyle CssClass="dropdown-item" BackColor="#CC66FF" BorderStyle="None" Height="50px" HorizontalPadding="10px" ItemSpacing="10px" VerticalPadding="10px" />
+        </asp:Menu>
+        </div>
+        </div>
+    </nav>
+        </div>
+        </div>
+        <div>
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+             
+
+        </div>
+    </form>
+</body>
+</html>

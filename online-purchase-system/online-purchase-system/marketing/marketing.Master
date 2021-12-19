@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="marketing.master.cs" Inherits="online_purchase_system.marketing.marketing" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                 <div id="container">
+	        <div id="header">
+		       
+	        </div>
+	        <div id="body">
+		       
+	        </div>
+	        <div id="footer">
+		        <!-- Footer start -->
+		        <p><strong>Footer</strong> (always at the bottom). View more website layouts and web design articles.</p>
+		        <!-- Footer end -->
+	        </div>
+        </div>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
